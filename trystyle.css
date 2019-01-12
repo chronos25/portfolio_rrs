@@ -1,0 +1,75 @@
+ ul{
+ 	list-style-type: none; /*Remove bullets*/
+ 	margin: 0;
+ 	padding: 0;
+ 	width: 200px;
+ 	background-color: #E8EAEA;
+ 	
+ }
+ li a{
+ 		display: block;/*Display makes whole area block to be clickable not just text*/
+	 	width: 150px; 
+	 	padding: 50px 20px;
+	 	color:#20858E  ;
+	 	text-decoration: none;
+ }
+ li a:hover {
+  background-color: #555;
+  color:#000 ;
+}
+ 
+
+ul{
+	border :1px solid #555;
+}
+body{
+	background-color: #211517 ;
+
+
+}
+.i{
+	font-size: 50px;
+	font-family: 'Dancing Script', cursive;}
+.j
+{
+ font-size: 30px;
+ font-family: 'Dancing Script', cursive;
+}
+.container{
+	margin-top: 1.5%;
+	margin-bottom: 1%;
+	margin-left: 2%;
+	margin-right: 2%;
+	display: flex;
+	max-height: 110%;
+	max-width: 150%; 
+	border-style: ;
+}
+#name{
+	font-size: 200%;
+	color: white;
+	text-align: center;
+	font-family: 'Thasadith', sans-serif;
+
+}
+#tag
+{
+	font-size: 150%;
+	color: white;
+	text-align: center; 
+	font-family: 'Thasadith', sans-serif;
+
+}
+.container2{ 
+	 
+	background-color: #1D666C ;
+	 max-width: 93%;
+	  
+
+}
+#ritik{
+	 font-size: 20px;
+	 font-family: 'Dancing Script', cursive;
+	 color: white;
+	 text-align: center;
+}

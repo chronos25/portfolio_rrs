@@ -1,0 +1,29 @@
+.container{
+	height: 320px;
+	background-color: #1D666C;
+	margin: 1px 1px 1px 1px;
+	text-align: center;
+	display: flex;
+}
+
+#about{
+margin-top: 8%;margin-left: 2%;
+	font-size: 50px;
+	text-align: center;font-family: 'Thasadith', sans-serif;
+}
+.container-2{
+	left: 20%;
+	right: 20%;
+	margin :1px 1px 1px 1px ;
+	padding: 1px 1px 1px 1px;
+	display: block;
+	position: absolute;
+	border: 2px solid #c3c3c3;
+	font-size: 20px;font-family: 'Slabo 27px', serif;
+	 background-color: #E8EAEA;
+
+}
+body
+{
+	background:#211517 ;
+}

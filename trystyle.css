@@ -34,12 +34,13 @@ nav ul li{
   background-color: #555;
   color:#000 ;
 }
-body{
-	background-image: url('back.jpg');
-
-
+.form{
+	width: 50%;
+	border-right: 1px solid black; 
+ 	height: 2%;
+	padding: 2%;
 }
- 
+
 .i
 {
  font-size: 30px;
@@ -96,24 +97,23 @@ margin-top: 6%;margin-left: 2%;
 	margin-right: 6%;
     margin-left: 6%;
 	 
-	padding: 1px 1px 0px 1px;
+	padding:3%;
 	display: block;
-	position: absolute;
+	position: relative;
 	border :2px solid #555;
 	font-family: 'Rajdhani', sans-serif;
-	font-size: 1.4rem;
- 
+	font-size: 1.4rem; 
 	 background-color: #ffffffad;
 
 }
  .containercontact1{
 	border :2px solid #555;
-	margin-left: 17%;
-	margin-top: 75%;
-	margin-right: 15%;
+	margin-left: 6%;
+	margin-top: 20%;
+	margin-right: 6%;
 	margin-bottom: 19%;  
 	background: #ffffffad;
-	padding: inherit;
+	padding: 2%;
 	position: relative;
 }
 h2{
